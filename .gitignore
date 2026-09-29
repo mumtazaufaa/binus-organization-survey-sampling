@@ -1,0 +1,12 @@
+# Data / generated files
+*.csv
+*.xlsx
+*.xls
+*.tmp
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
